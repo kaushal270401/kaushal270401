@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m kaushal kambli
 * 👀 I’m interested in programming
-* 💻I want to be a devloper 
+* 💻I want to be a WEB devloper 
 
                                                                                                                
 ## 🤝 Connect with me:                                                                                                               
