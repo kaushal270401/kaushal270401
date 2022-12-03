@@ -4,4 +4,5 @@
 # 👋 Hi, I’m kaushal kambli
 ## 👀 I’m interested in programming
 ## 💻I want to be a devloper 
-
+💼 Technical Skills
+React JavaScript Angular TypeScript HTML5 Postgres
