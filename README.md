@@ -2,7 +2,7 @@
   <a href="" target="_blank" rel="noreferrer"><img src="http://logos.textgiraffe.com/logos/logo-name/Kaushal-designstyle-boots-m.png" alt="my banner"></a>
 </p>
 
-# 👋 Hi, I’m kaushal kambli
+# 👋 Hi, I’m kaushal
 * 👀 I’m interested in programming
 * 💻I want to be a WEB devloper 
 
