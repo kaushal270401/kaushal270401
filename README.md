@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" background="white">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="http://logos.textgiraffe.com/logos/logo-name/Kaushal-designstyle-boots-m.png" alt="my banner"></a>
 </p>
 
