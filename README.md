@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fgen2.textgiraffe.com%2FKaushal%2FPage2%2F&psig=AOvVaw3_bsM0-HBR6rgtnp06Xie0&ust=1670181368678000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCa-8qU3vsCFQAAAAAdAAAAABAE" alt="my banner"></a>
 </p>
 
 # 👋 Hi, I’m kaushal kambli
