@@ -8,5 +8,6 @@
 
                                                                                                                
 ### 🤝 Connect with me:                                                                                                               
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="kaushal kambli | LinkedIn" width="21px"/></a>
+<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="kaushal kambli | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/kaushal.2704/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="kaushal kambli | Instagram" width="21px"/></a>
+<a href=""><img align="left" src="data:image/png"
