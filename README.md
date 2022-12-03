@@ -1,5 +1,6 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
+</p>
 
 # 👋 Hi, I’m kaushal kambli
 * 👀 I’m interested in programming
