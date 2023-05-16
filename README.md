@@ -3,8 +3,7 @@
 </p>
 
 # 👋 Hi, I’m kaushal
-* 👀 I’m interested in programming
-* 💻I want to be a WEB devloper 
+
 
                                                                                                                
 ## 🤝 Connect with me:                                                                                                               
