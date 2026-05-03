@@ -22,9 +22,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/kaushal-kambli-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
 
 ---
