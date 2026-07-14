@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:6DD5FA&height=2&section=header" width="100%"/>
 
-## 💼 About Me
+## 💼 About Mee
 
 ```yaml
 role:        MERN Stack Developer
